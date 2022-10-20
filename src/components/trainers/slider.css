@@ -1,0 +1,21 @@
+.slick-slide, .slick-slide * {outline: none !important;}
+
+.slick-slider {
+  display: flex;
+  align-items: center;
+  height: 500px;
+}
+
+.slick-list {
+  padding-top: 20px;
+}
+
+.slick-active {
+  fill: #4A294A;
+  stroke: #4A294A;
+}
+
+.slick-dots {
+  fill: #fff;
+  stroke: #4A294A;
+}

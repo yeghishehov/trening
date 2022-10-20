@@ -1,0 +1,72 @@
+{
+  "lang": "En",
+  "about": {
+    "header": "About Quest Line",
+    "headerMob": "Why ChooseOur Trainings",
+    "description": "We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience and be able to develop high-load projects. We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience and be able to develop high-load projects. We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience and be able to develop high-load projects"
+  },
+  "banner": {
+    "button": "Join Now",
+    "directionsText": "Our Directions:",
+    "header": "Quest Line Course",
+    "title": "Faculty of Web Development",
+    "description": "We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience and be able to develop high-load projects."
+  },
+  "contact": {
+    "header1": "For Further Details You",
+    "header2": "Can Contact With Us",
+    "title": "Contact Us",
+    "description": "Receive the complete Professional Plan",
+    "button": "Get Feedback",
+    "state": "State*",
+    "phone": "Phone*",
+    "email": "Email*",
+    "message": "Get Feedback*",
+    "modalHeader": "Thank You",
+    "modalText": "Our Specialist Will Contact With You Over Five Minutes"
+  },
+  "courses": {
+    "header": "Quest Line Courses",
+    "modalHeader": "SOON!!",
+    "modalBoldText": "Over 15 JUL",
+    "modalText": "We Willv Start This Courses Befor That You Can Contact With Us For Geting More Information"
+  },
+  "footer": {
+    "text1": "Lorem Ipsum has been the industry's",
+    "text2": "standard dummy text ever since the 1500s",
+    "email": "questlinellc.com",
+    "state": "Yerevan, Armenia",
+    "phone": "+374 94 000 000",
+    "QL": "©2021 QuestLineCourses"
+  },
+  "header": {
+    "join": "Join Now",
+    "courses": "Courses",
+    "home": "Home",
+    "about": "About Us",
+    "trainers": "Trainers",
+    "contact": "Contact Us"
+  },
+  "join": {
+    "header": "Register Now",
+    "title1": "NO CREDIT CARD REQUIRED!",
+    "title2": "Sign up for your Quest Line Course",
+    "description": "Receive the complete Professional Plan",
+    "select": "Select Course",
+    "button": "Sign Up",
+    "name": "Your Name*",
+    "lastName": "Last Name*",
+    "phone": "Phone Number*",
+    "email": "Email*",
+    "modalHeader": "Well Done",
+    "modalText": "Our Specialist Will Contact With You Over Five Minutes"
+  },
+  "trainers": {
+    "header": "Quest Line Trainers"
+  },
+  "course": {
+    "header": "Faculty of ",
+    "description": "We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. We will teach web development from scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience scratch: you will go from creating layouts to optimizing databases and algorithms. After training, you will gain practical experience and be able to develop high-load projects.",
+    "button": "JOIN NOW"
+  }
+}
